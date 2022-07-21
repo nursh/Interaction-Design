@@ -1,0 +1,24 @@
+# What is design
+
+- Design is to plan something in advance
+  - achieve goals within constraints
+- Constraints are critical
+  - medium
+  - computers and devices
+  - time and money
+- Constraints force you to make choices and trade-offs
+  - can't achieve all goals
+  - have to pick what's important
+- material used changes nature of design
+  - mobile to web design is bad
+- materials are:
+  - platform
+  - computer
+  - screen size
+  - people(rship between other people and materials)
+- Fundamental capacities of materials
+- understand nature of people
+- Know how your materials fail and design for that
+  - understand limitations of people as actors in your system
+  - design for when those limitations and mistakes happen
+- Treat users as well as your material
