@@ -1,0 +1,26 @@
+# Storytelling with scenarios
+
+- Personas are what people are like
+- Scenarios are about how people do things
+  - validate other kinds of models
+- Create a step-by-step walkthrough
+  - what can I do?
+  - What are the steps?
+    - how can they step through the system
+  - What are they thinking
+  - What can they see
+- Scenarios are about capturing what users
+  - are doing
+  - could do
+  - might want to do
+- dig into details
+- validate other models
+- express dynamics
+- scenarios are linear
+  - concrete
+  - easy to understand
+- less likely to make errors and mistakes when design is concrete
+  - as opposed to abstract
+- scenarios can miss branches
+  - but multiple scenarios help
+- 
