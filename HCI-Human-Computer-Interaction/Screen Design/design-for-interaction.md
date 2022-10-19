@@ -1,0 +1,34 @@
+# Design for interaction
+
+- What is active and what is passive
+- What can the user interact with
+  - is there any sign(obvious)
+- What is used for display and what can be edited
+- Use consistent styling for interactive elements
+  - getting it wrong can make the ui unusable
+- look around other applications to know how to apply design
+- state-based names vs action-based names
+  - be consistent
+- think about what things mean
+  - like bold
+    - does it mean make the following text bold
+    - or make the previous text bold
+- Ecology Pyschology term - Affordance
+  - the appearance of features in an environment and what it allows you to do
+    - like push plates on doors
+    - handles on cups
+  - make digital design have a pointer to the real world designs
+    - let it remind users of the real thing
+  - some actions are learned
+    - like the menu button(hamburger)
+
+- The purpose of information matters
+  - this will affect how it is represented
+  - primary purpose
+- Think of interactivity when designing
+  - and how it can affect the data shown
+  - soften the choice and make it easy for comparison
+- second-order trade-off
+  - give choice back to the user(interactivity of some kind)
+  - but don't overdo it
+- 
