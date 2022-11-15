@@ -46,5 +46,3 @@
 - Design for value
   - balance business and technology
   - technologically feasible and have sound value proposition
-- 
-

@@ -1,0 +1,34 @@
+# Human-Centered Design(People centered design)
+
+- study how people use systems
+  - avoid errors
+- humanity centered design
+  - focus on the society on group of people not individuals
+- unifying factor
+  - people, society and humanity
+- research, understand and interact with real users
+  - researching user's context of use
+  - specifying requirements(needs and problems)
+  - producing design and evaluating solutions against the requirements
+- Using personas
+  - use real names(avoid saying users - dehumanizes)
+  - promoting empathy and understanding
+- Direct engagement with users
+  - observation - watch users
+  - research - understand context of use
+    - how something is used in the real world
+    - the environment of where something is used
+  - evaluation - see what problems might have
+    - usability testing
+    - don't rely solely on evaluation(check to see if you're solving the right problem first)
+- We usually miss things in design
+  - some people have different needs
+- process should focus on users not on evaluations
+- Produce prototypes as early as possible
+- timescales to allow feedback
+- make your design team multi-disciplinary
+  - diverse with different perspectives
+- work in small steps and continuously iterate
+  - don't solve everything at once
+  - design and get feedback(then improve)
+  - 
