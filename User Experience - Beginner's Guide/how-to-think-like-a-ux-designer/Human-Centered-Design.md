@@ -31,4 +31,3 @@
 - work in small steps and continuously iterate
   - don't solve everything at once
   - design and get feedback(then improve)
-  - 
