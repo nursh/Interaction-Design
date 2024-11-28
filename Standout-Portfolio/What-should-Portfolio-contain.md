@@ -1,0 +1,22 @@
+# What should a Portfolio contain
+
+- What is the point of a portfolio?
+  - it is to land a job
+- It should explain:
+  - what you've been working on
+  - and how you work(approach to work)
+    - how do you interact, collaborate, negotiate
+    - how do you move work forward
+- Show your level of craft
+  - integrate quality in your work
+- 3-5 use cases
+  - relevant to the job you want
+  - show a variety of case studies
+    - different types of projects
+- Include information about yourself
+  - some education background
+  - course you've completed online
+  - industry-recognized certifications 
+  - brief work history
+  - carefully select the social media links to include
+  - be careful with personal details
