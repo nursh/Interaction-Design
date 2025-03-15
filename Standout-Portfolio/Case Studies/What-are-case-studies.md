@@ -1,7 +1,7 @@
 # What are case studies
 
 - Detailed analysis and narrative of a user experience design project
-- It shows a designer's process and solution to s specific Ux challenge
+- It shows a designer's process and solution to s specific UX challenge
   - explanation of the challenge
   - research
   - design decisions

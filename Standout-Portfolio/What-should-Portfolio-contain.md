@@ -15,7 +15,7 @@
     - different types of projects
 - Include information about yourself
   - some education background
-  - course you've completed online
+  - courses you've completed online
   - industry-recognized certifications 
   - brief work history
   - carefully select the social media links to include

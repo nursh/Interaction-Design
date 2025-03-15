@@ -40,5 +40,3 @@
   - Qualitative 
     - interviews, usability tests
     - for in-depth understanding of experiences and daily lives of users or groups
-
-- 

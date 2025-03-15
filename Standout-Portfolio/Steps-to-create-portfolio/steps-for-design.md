@@ -23,7 +23,7 @@
   - From which projects did I learn the most
   - What interesting stories can I tell about the work I did
 - Prioritize the projects for the work you're looking for
-  - shwocase projects where you enjoyed doing the work
+  - showcase projects where you enjoyed doing the work
 
 
 ## Step 2
